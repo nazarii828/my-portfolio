@@ -55,15 +55,15 @@ const services: TService[] = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Mobile/Android Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Blockchain Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "3D visualization",
     icon: creator,
   },
 ];
@@ -125,11 +125,11 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "React.js Developer",
-    companyName: "Starbucks",
+    title: "Front-end Developer",
+    companyName: "Britenet",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2023 - March 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -138,24 +138,25 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "React Native Developer",
-    companyName: "Tesla",
+    title: "Web3 Engineer",
+    companyName: "Netguru",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "April 2023 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed 7 swap and staking dApps, earnt $400,000 using cosmwasm and solidity smart contracts.",
+      "Developed Hyperlane Bridge Relayer to support Aptos and Sui using Rust.",
+      "Developed bots for crypto trading arbitrage, sandwich trading, and snipping, resulting in earnings exceeding $100k.",
+      "Collaborated effectively with team members to facilitate discussions on the appropriate direction for the platform.",
+      "Research about building company's own chain using Cosmos SDK on cosmos ecosystem and using Polkadot PDK as a parachain.",
     ],
   },
   {
-    title: "Web Developer",
-    companyName: "Shopify",
+    title: "Full-stack Developer",
+    companyName: "codete",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "September 2022 - March 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -164,16 +165,15 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "Full stack Developer",
-    companyName: "Meta",
+    title: "Blockchain Developer",
+    companyName: "Bunzz Dev",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "April 2021 - August 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed Landing page and Main front-end, back-end, API integration.",
+      "Developed several types of Bunzz Solidity modules like DEX, DexAggregator",
+      "Created the RESTAPI for the Cross Chain NFT marketplace.",
     ],
   },
 ];
@@ -181,7 +181,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Nazarii proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -189,7 +189,7 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Nazarii does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
